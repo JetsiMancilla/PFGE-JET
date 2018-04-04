@@ -72,5 +72,5 @@ Puedo guardar los comandos para editar las imagenes
 
 **COMANDOS**
 
-
+![spyder2](https://user-images.githubusercontent.com/36114853/38322715-dc5cb9fe-3800-11e8-893d-556cd496e49d.png)
 
