@@ -4,7 +4,7 @@ Antes de instalar alguna libreria que me permitiera procesar imagenes, lo que hi
 
 Debido a lo anterior, instale **pip** (permite instalar paquetes o modulos para Python)
 
-###Para linux: 
+### Para linux: 
 NOTA:debo hacerlo desde la consola , no desde Python!!!!!
 
 ```
@@ -42,7 +42,7 @@ $ pip install pillow
 $ apt-get install python-pillow
 ```
 
-Entonces ejecute:
+Entonces ejecuté:
 
 ```
 $ sudo apt-get install python-pillow
