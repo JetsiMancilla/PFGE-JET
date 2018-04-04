@@ -52,14 +52,18 @@ Agregué **sudo**, porque estoy utilizando linux
 
 _________________________________________________________________________________________________________________________________
 
+
 # Como instalar Spyder
 
-Desde la consola puedo ejecutar diferentes comandos para editar imagenes:
+Decidí utilizar Spyder porque desde la consola puedo ejecutar diferentes comandos y luego ejecutarlos todos. 
+
+El comando que utilicé para instalar Spyder fue:
 
 ```
 $ sudo apt-get install spyder
 
 ```
+
 
 Puedo guardar los comandos para editar las imagenes
 
