@@ -1,4 +1,4 @@
-### PARA VISUALIZAR UNA IMAGEN EN PYTHON
+### VISUALIZACIÓN DE IMAGENES EN PYTHON
 
 Antes de instalar alguna libreria que me permitiera procesar imagenes, lo que hice fue ejecutar un comando que me permitiera instalar las librerias que requiero para Python.
 
